@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clase03</string>
+    <string name="lbl_nombre">Nombre</string>
+    <string name="lbl_escriba_nombre">Escriba su Nombre</string>
+    <string name="lbl_CheckBox">CheckBox</string>
+    <string name="lbl_admin">Admin</string>
+    <string name="lbl_usuario">usuario</string>
+    <string name="lbl_ingresar">Ingresar</string>
+    <string name="title_activity__lista">Activity_Lista</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
